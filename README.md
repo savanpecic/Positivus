@@ -1,29 +1,33 @@
 ## POSITIVUS
 
-POSITIVUS je moderan, responzivan landing page dizajniran u HTML, CSS (Flexbox i Grid) i JavaScript.
-Fokus je bio na čistom layoutu, interaktivnom navigacijskom meniju i glatkim prijelazima između desktop, tablet i mobilne verzije.
+## 🌐 Opis projekta
 
-**🔧 Tehnologije**
+POSITIVUS je moderni landing page dizajniran za digitalnu agenciju, sa fokusom na prezentaciju usluga, timskih članova i iskustava klijenata. Stranica je potpuno responzivna, interaktivna i prilagođena različitim uređajima (desktop, tablet, mobilni).
 
-HTML5
+## 🧩 Korištene tehnologije
 
-CSS3 (Flexbox, Grid, Media Queries)
+HTML5 – struktura stranice
 
-JavaScript (ES6)
+CSS3 – Flexbox, Grid, Media Queries
 
-**✨ Glavne sekcije**
+JavaScript (ES6) – interaktivni elementi poput FAQ sekcije i navbar animacije
 
-Navigacija sa animacijom
+## 📱 Glavne karakteristike
 
-Hero sekcija
+Responzivan dizajn za desktop, tablet i mobilne uređaje
 
-Sekcija usluga (Services)
+Hero sekcija sa naslovom i tekstom
 
-FAQ sekcija
+Sekcija usluga (Services) sa karticama i hover efektima
 
-Footer
+FAQ sekcija sa proširujućim odgovorima i plus/minus ikonama
 
-**📱 Responsivnost**
+Sekcija Team sa karticama raspoređenim u dva reda po tri
 
-Stranica je u potpunosti prilagođena za desktop, tablet i mobilne uređaje.
-Posebna pažnja posvećena je layout prelazima i animacijama navigacije.
+Testimonials slider sa strelicama i indikatorima
+
+Kontakt forma sa opcijom "Say Hi" i "Get a Quote"
+
+## 💡 Cilj projekta
+
+Cilj projekta POSITIVUS je demonstracija modernih frontend vještina, uključujući responzivni dizajn, fleksibilan layout i interaktivne elemente, te stvaranje vizualno privlačnog i funkcionalnog landing page-a.
